@@ -5,6 +5,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=12300000,AVERAGE-BANDWIDTH=12191434,RESOLUTION=1020x720,FRAME-RATE=50.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://sharktv.alphatx.me:80/play/live.php?mac=00:1A:79:A7:87:44&stream=1471382&extension=m3u8
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:C7:1E:6E&stream=1240684&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=12300000,AVERAGE-BANDWIDTH=12191434,RESOLUTION=1020x720,FRAME-RATE=50.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=560506&extension=m3u8
