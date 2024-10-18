@@ -5,6 +5,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=12300000,AVERAGE-BANDWIDTH=12191434,RESOLUTION=1020x720,FRAME-RATE=50.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:C7:1E:6E&stream=1304125&extension=ts
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:C7:1E:6E&stream=1304125&extension=m3u8
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:C7:1E:6E&stream=1002745&extension=ts
 http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=5175&deviceMac=00:1A:79:E5:A9:30
