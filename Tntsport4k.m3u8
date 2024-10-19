@@ -5,4 +5,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=12300000,AVERAGE-BANDWIDTH=12191434,RESOLUTION=1020x720,FRAME-RATE=50.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:C7:1E:6E&stream=1076386&extension=m3u8
+http://hostengine.live:8080/live/Jordan3/yUWqg2eYgEe9/224931.m3u8
