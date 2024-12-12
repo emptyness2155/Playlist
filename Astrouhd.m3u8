@@ -5,6 +5,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=12300000,AVERAGE-BANDWIDTH=12191434,RESOLUTION=3840x2160,FRAME-RATE=50.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=5175&deviceMac=00:1A:79:E5:A9:30
 http://lunar.pm:8080/TobaccoPlus/Smokesum/110276.m3u8
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656970.m3u8
 http://sharktv.alphatx.me:80/play/live.php?mac=00:1A:79:A7:87:44&stream=1479590&extension=m3u8
