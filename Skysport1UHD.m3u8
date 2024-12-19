@@ -5,6 +5,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=9300000,AVERAGE-BANDWIDTH=9191434,RESOLUTION=1020x720,FRAME-RATE=50.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://hostengine.live:8080/live/Jordan3/yUWqg2eYgEe9/309258.m3u8
 http://hostengine.live:8080/live/B159robparkin/99b15999/309258.m3u8
 http://hostengine.live:8080/live/Richard1234/Richard1234/309258.m3u8
-http://hostengine.live:8080/live/Jordan3/yUWqg2eYgEe9/309258.m3u8
+
