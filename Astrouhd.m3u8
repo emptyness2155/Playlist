@@ -4,4 +4,4 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png",Astro Sports UHD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
+https://attitude.my.id/qwerty/corsproxy.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
